@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "user@example.com",
+      "password": "hashedpassword"
+    }
+  ],
+  "hotels": [
+    {
+      "id": 1,
+      "name": "Hotel Taj",
+      "location": "Mumbai",
+      "roomsAvailable": 10
+    }
+  ],
+  "bookings": [
+    {
+      "id": 1,
+      "userId": 1,
+      "hotelId": 1,
+      "checkInDate": "2025-03-10",
+      "checkOutDate": "2025-03-15"
+    }
+  ],
+  "checkins": [
+    {
+      "id": 1,
+      "bookingId": 1,
+      "aadhaar": "123456789012",
+      "name": "John Doe"
+    }
+  ]
+}
