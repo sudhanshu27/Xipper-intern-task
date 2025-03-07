@@ -9,7 +9,7 @@ This repository contains the backend implementation of the Xipper assignment. Th
 - REST APIs built for necessary functionalities  
 - Tested the APIs using Postman  
 
-## 🏗️ Folder Structure
+## 🚀 Folder Structure
 
 ```
 Xipper-intern-task/
